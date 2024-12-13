@@ -3,7 +3,7 @@
 To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
-   git clone <repository-url>
+   git clone <https://github.com/saikrishna1717/workspectation-task.git>
    
    cd asteroid-neo-stats
    
